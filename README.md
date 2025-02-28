@@ -1,1 +1,3 @@
-# Discrete_Math_
+## Discrete Math
+# Propositional and Logical statement
+# Java GUI
